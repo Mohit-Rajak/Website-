@@ -23,11 +23,11 @@ Visionary Architects is a modern and innovative architectural website designed t
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Mohit-Rajak/visionary-architects.git
+   git clone https://github.com/Mohit-Rajak/Website.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd visionary-architects
+   cd Website
    ```
 3. Open `index.html` in your browser.
 
