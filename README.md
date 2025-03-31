@@ -50,7 +50,7 @@ visionary-architects/
 Simply open `index.html` in a browser to explore the website. Customize images and text in `index.html` and `style.css` as needed.
 
 ## Contact
-For any queries or collaboration, reach out via email: [hellow.mohitrajak022004@gmail.com](mailto:hellow.mohitrajak022004@gmail.com).
+For any queries or collaboration, reach out via email: [mohitrajak022004@gmail.com](.mohitrajak022004@gmail.com).
 
 ## License
 This project is open-source and available under the MIT License.
